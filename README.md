@@ -2,6 +2,9 @@
 
 when using NG version 6+: https://github.com/nrwl/nx/issues/496
 
+create-nx-workspace ngrx03
+
+
 ng generate app ngrx03 --prefix jdo
 
 
